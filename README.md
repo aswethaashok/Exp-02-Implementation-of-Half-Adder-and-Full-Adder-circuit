@@ -40,7 +40,8 @@ RegisterNumber: 23003624
 ## CODE:
 ##HALF ADDER:![image](https://github.com/aswethaashok/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149987410/327cadcd-e976-4d7f-a4c2-3aa07fd64671)
 
-##FULL ADDER:![image](https://github.com/aswethaashok/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149987410/dc6964b3-371d-4ad4-95fa-60c87358d00b)
+##FULL ADDER:![image](https://github.com/aswethaashok/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149987410/7aefea1e-f668-4dd6-be21-1b1e306b87b7)
+
 
 ##TRUTH TABLE:
 ##HALF ADDER:![image](https://github.com/aswethaashok/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149987410/1119057b-3791-4f92-bf24-4f2ef0ff5f0c)
